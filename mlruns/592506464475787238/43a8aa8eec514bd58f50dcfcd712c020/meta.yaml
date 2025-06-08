@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tar/Mlops/mlruns/592506464475787238/43a8aa8eec514bd58f50dcfcd712c020/artifacts
+end_time: 1749338506125
+entry_point_name: ''
+experiment_id: '592506464475787238'
+lifecycle_stage: active
+run_id: 43a8aa8eec514bd58f50dcfcd712c020
+run_name: RandomForest
+run_uuid: 43a8aa8eec514bd58f50dcfcd712c020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338501890
+status: 3
+tags: []
+user_id: tar

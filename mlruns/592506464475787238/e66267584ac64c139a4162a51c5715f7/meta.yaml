@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tar/Mlops/mlruns/592506464475787238/e66267584ac64c139a4162a51c5715f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '592506464475787238'
+lifecycle_stage: active
+run_id: e66267584ac64c139a4162a51c5715f7
+run_name: rambunctious-dog-990
+run_uuid: e66267584ac64c139a4162a51c5715f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338960412
+status: 1
+tags: []
+user_id: tar

@@ -1,0 +1,13 @@
+artifact_path: model_XGBoost
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 2.22.1
+model_size_bytes: 36
+model_uuid: a9e2db9655de479cad16d606e87284b3
+prompts: null
+run_id: 135f05904a1e4395bd96c62c1ee9b52b
+utc_time_created: '2025-06-07 23:21:53.059955'

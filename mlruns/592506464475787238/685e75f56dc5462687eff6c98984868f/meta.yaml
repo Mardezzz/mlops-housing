@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tar/Mlops/mlruns/592506464475787238/685e75f56dc5462687eff6c98984868f/artifacts
+end_time: 1749338345705
+entry_point_name: ''
+experiment_id: '592506464475787238'
+lifecycle_stage: active
+run_id: 685e75f56dc5462687eff6c98984868f
+run_name: DecisionTree
+run_uuid: 685e75f56dc5462687eff6c98984868f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338344230
+status: 4
+tags: []
+user_id: tar

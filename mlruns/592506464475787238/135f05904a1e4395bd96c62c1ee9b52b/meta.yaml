@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tar/Mlops/mlruns/592506464475787238/135f05904a1e4395bd96c62c1ee9b52b/artifacts
+end_time: 1749338515942
+entry_point_name: ''
+experiment_id: '592506464475787238'
+lifecycle_stage: active
+run_id: 135f05904a1e4395bd96c62c1ee9b52b
+run_name: XGBoost
+run_uuid: 135f05904a1e4395bd96c62c1ee9b52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749338506128
+status: 3
+tags: []
+user_id: tar

@@ -1,0 +1,13 @@
+artifact_path: model_DecisionTree
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 2.22.1
+model_size_bytes: 36
+model_uuid: 0ad735b708b04070b38228b0a75476e7
+prompts: null
+run_id: 01e11a85f98d498991e90aa1e17a223a
+utc_time_created: '2025-06-07 23:21:37.831072'
