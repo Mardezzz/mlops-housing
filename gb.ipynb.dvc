@@ -1,0 +1,5 @@
+outs:
+- md5: 2bd886574862d0d52ca7e82a88a0533b
+  size: 1215
+  hash: md5
+  path: gb.ipynb
